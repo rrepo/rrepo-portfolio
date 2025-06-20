@@ -1,4 +1,15 @@
-body{
+body {
   margin: 0;
   padding: 0;
+}
+
+@font-face {
+  font-family: "DonguriDuel";
+  src: url("DotGothic16-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "DonguriDuel",
 }
